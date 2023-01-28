@@ -10,6 +10,7 @@
     background-position: center;
     background-size: cover;
     position: absolute;
+    
 }
 .form-wrap {
     width: 380px;
@@ -20,6 +21,7 @@
     padding: 5px;
     overflow: hidden;
     border-radius:30px 30px 30px 30px;
+    opacity: 0.8;
 }
 .button-wrap {
     width: 230px;
